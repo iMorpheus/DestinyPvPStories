@@ -16,3 +16,5 @@
 - How many times we beat the odds.
 - Best PSN handle
 - Hot-hits clips
+
+[Profile](https://destinytracker.com/destiny-2/profile/psn/iMorph/overview)
