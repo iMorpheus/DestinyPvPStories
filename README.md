@@ -1,4 +1,4 @@
-# Destiny PvP Stories
+# PvP Stories
 1. OBJECTIVE: 
 - Turn PvP into enjoyable content
 - Test the accuracy of the DestinyTracker Win/Lose Odds
