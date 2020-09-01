@@ -1,1 +1,11 @@
-Date, Playlist, Map, Initial ELO, Round, Team Alpha or Bravo, Projected Winning Team, Actual Winning Team, OPFOR ELO, BLUFOR ELO, iMorph Post-match ELO, Best PSN Handle
+Round, Date, Playlist, Map, Initial ELO, Post-match ELO, Team, Projected Winning Team, Winning Team, Win/Lose, Alpha Score, Bravo Score, Alpha ELO, Bravo ELO, Best PSN Handle
+1, 2020-08-31, Mayhem, Rustlands, 1877, 1823, Alpha, Alpha, Bravo, 0, 111, 128, 1418, 1345, 
+2, 2020-08-31, Mayhem, The Fortress, 1823, 1858, Alpha, Alpha, Alpha, 1, 125, 120, 1530, 1374, 
+3, 2020-08-31, Mayhem, Widow's Court, 1858, 1847, Alpha, Bravo, Alpha, 0, 119, 125, 1303, 1542,
+4, 2020-08-31, Mayhem, Rusted Lands, 1847, 1902, Alpha, Alpha, Alpha, 1, 127, 80, 1490, 1348,
+5, 2020-08-31, Mayhem, Pacifica, 1902, 1884, Alpha, Alpha, Bravo, 0, 122, 125, 1494, 1418,
+6, 2020-08-31, Mayhem, Retribution, 1884, 1900, Alpha, Alpha, Alpha, 1, 126, 104, 1560, 1286,
+7, 2020-08-31, Mayhem, Metldown, 1900, 1826, Alpha, Alpha, Bravo, 0, 102, 127, 1413, 1393,
+8, 2020-08-31, Mayhem, Altar of Flame, 1826, 1749, Bravo, Alpha, Alpha, 0, 125, 72, 1399, 1347,
+9, 2020-08-31, Mayhem, Retribution, 1749, 1704, Bravo, Alpha, Alpha, 0, 125, 121, 1343, 1257,
+10, 2020-08-31, Mayhem, Widow's Curt, 1704, 1752, Alpha, Alpha, Alpha, 1, 125, 77, 1379, 1193,
