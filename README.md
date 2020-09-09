@@ -25,3 +25,10 @@
 3. Complete Gambit or Reckoning matches
 4. Defeat combatants with Void light
 5. Precision multi-kills
+
+---
+# LINKS
+- [Destiny 2 Utilities](https://destiny2utils.com/)
+- [Light GG](https://www.light.gg)
+- [D2 Checklist](https://www.d2checklist.com/home)
+- [Niris TV](https://www.niris.tv)
