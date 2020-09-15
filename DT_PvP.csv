@@ -1,4 +1,4 @@
-Date, Rnd, Location, Result, Predicted
+RND, Date, Mode, Location, Result, Predicted
 11, 2020-09-14, Control, The Burnout, 0, 0
 12, 2020-09-14, Control, Distant Shores, 1, 1
 13, 2020-09-14, Control, Fragment, 1, 0
