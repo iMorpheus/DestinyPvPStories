@@ -29,4 +29,6 @@ RND, Date, Mode, Location, Predicted, Result
 28,2020-09-26, Control, Retribution,1,1
 29,2020-09-26, Control, Retribution,0,0
 30,2020-09-26, Control, Exodus,1,1
-31,2020-10-25, Control, ,,1
+31,2020-10-25, Control, Retribution, 1, 1
+32,2020-10-25, Control, Meltdown, 0, 1
+33,2020-10-25, Control, Meltdown, ,1
